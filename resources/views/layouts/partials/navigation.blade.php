@@ -1,24 +1,14 @@
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Clarence Taylor</span>
-                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="webassets/assets/img/profile.jpg" alt="..." /></span>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#home">Home</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about-us">About us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#visi-misi">Visi Misi</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#profile">Profile</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#products-services">Our Products & Services</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#gallery">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#clients">Our Clients</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact-us">Contact us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#articles">Articles</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#events">Events</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="signin">Sign in</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="signup">Sign up</a></li>
-                </ul>
-            </div>
-        </nav>
+<nav id="navbar" class="navbar">
+    <ul>
+      <li><a href="/" class="active">Home</a></li>
+      <li><a href="/about">About</a></li>
+      <li><a href="/visi-misi">Visi Misi</a></li>
+      <li><a href="/profile">Profile</a></li>
+      <li><a href="/products-services">Products and Services</a></li>
+      <li><a href="/gallery">Gallery</a></li>
+      <li><a href="/clients">Clients</a></li>
+      <li><a href="/articles">Articles</a></li>
+      <li><a href="/articles">Events</a></li>
+      <li><a href="/contact">Contact</a></li>
+    </ul>
+  </nav>
