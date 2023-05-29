@@ -3,7 +3,7 @@
 <main id="main">
 
     <!-- ======= Breadcrumbs ======= -->
-    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/breadcrumbs-bg.jpg');">
+    <div class="breadcrumbs d-flex align-items-center" style="background-image: url('assets/img/hero-carousel/triumph1.jpg');">
       <div class="container position-relative d-flex flex-column align-items-center" data-aos="fade">
 
         <h2>Profile</h2>
@@ -20,8 +20,8 @@
         <div class="container" data-aos="fade-up">
 
           <div class="section-header">
-            <h2>Constructions</h2>
-            <p>Nulla dolorum nulla nesciunt rerum facere sed ut inventore quam porro nihil id ratione ea sunt quis dolorem dolore earum</p>
+            <h2>Profile</h2>
+            <p>kami adalah sebuah club motor yang bergerak dibeberapa bidang</p>
           </div>
 
           <div class="row gy-4">
@@ -30,12 +30,12 @@
               <div class="card-item">
                 <div class="row">
                   <div class="col-xl-5">
-                    <div class="card-bg" style="background-image: url(assets/img/constructions-1.jpg);"></div>
+                    <div class="card-bg" style="background-image: url(assets/img/hero-carousel/triumph2.jpg);"></div>
                   </div>
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
-                      <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                      <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                      <h4 class="card-title">Business</h4>
+                      <p>selain fokus dari sisi organsasinya kami juga mengembangkan bisnis berupa penjualan spare part motor hingga motor custom </p>
                     </div>
                   </div>
                 </div>
@@ -46,44 +46,28 @@
               <div class="card-item">
                 <div class="row">
                   <div class="col-xl-5">
-                    <div class="card-bg" style="background-image: url(assets/img/constructions-2.jpg);"></div>
+                    <div class="card-bg" style="background-image: url(assets/img/hero-carousel/triumph3.webp);"></div>
                   </div>
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
-                      <h4 class="card-title">Possimus ut sed velit assumenda</h4>
-                      <p>Sunt deserunt maiores voluptatem autem est rerum perferendis rerum blanditiis. Est laboriosam qui iste numquam laboriosam voluptatem architecto. Est laudantium sunt at quas aut hic. Eum dignissimos.</p>
+                      <h4 class="card-title">Riding With Style</h4>
+                      <p>Riding with style menjadi cara kita untuk mengekspresikan diri sebagai pengendara bermotor yang taat peraturen</p>
                     </div>
                   </div>
                 </div>
               </div>
             </div><!-- End Card Item -->
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="300" style="margin: auto; margin-top: 30px">
               <div class="card-item">
                 <div class="row">
                   <div class="col-xl-5">
-                    <div class="card-bg" style="background-image: url(assets/img/constructions-3.jpg);"></div>
+                    <div class="card-bg" style="background-image: url(assets/img/triumph2.webp);"></div>
                   </div>
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
-                      <h4 class="card-title">Error beatae dolor inventore aut</h4>
-                      <p>Dicta porro nobis. Velit cum in. Nesciunt dignissimos enim molestiae facilis numquam quae quaerat ipsam omnis. Neque debitis ipsum at architecto officia laboriosam odit. Ut sunt temporibus nulla culpa.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div><!-- End Card Item -->
-
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="400">
-              <div class="card-item">
-                <div class="row">
-                  <div class="col-xl-5">
-                    <div class="card-bg" style="background-image: url(assets/img/constructions-4.jpg);"></div>
-                  </div>
-                  <div class="col-xl-7 d-flex align-items-center">
-                    <div class="card-body">
-                      <h4 class="card-title">Expedita voluptas ut ut nesciunt</h4>
-                      <p>Aut est quidem doloremque voluptatem magnam quis excepturi vero quia. Eum eos doloremque architecto illo at beatae dolore. Fugiat suscipit et sint ratione dolores. Aut aliquid ea dolores libero nobis.</p>
+                      <h4 class="card-title">Biker Profile</h4>
+                      <p>biker profile menjadi cara bagi kita untuk mengekspresikan diri sebagai bikers yang unique dan berbeda dari yang lain</p>
                     </div>
                   </div>
                 </div>
@@ -91,7 +75,6 @@
             </div><!-- End Card Item -->
 
           </div>
-
         </div>
       </section><!-- End Constructions Section -->
 

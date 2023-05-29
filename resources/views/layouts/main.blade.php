@@ -5,12 +5,12 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Triumph Riders Motor Club</title>
+  <title>Triumph Riders</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/logoTriumph.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
@@ -46,8 +46,8 @@
 
       <a href="index.html" class="logo d-flex align-items-center">
         <!-- Uncomment the line below if you also wish to use an image logo -->
-        <!-- <img src="assets/img/logo.png" alt=""> -->
-        <h1>Triump Riders<span>.</span></h1>
+        <img style="width: 300px" src="assets/img/logo.svg">
+        <!-- <h1>Triump Riders<span>.</span></h1> -->
       </a>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
