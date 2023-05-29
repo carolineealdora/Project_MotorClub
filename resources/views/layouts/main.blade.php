@@ -54,6 +54,7 @@
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
         @include('layouts.partials.navigation')
         <!-- .navbar -->
+        @include('layouts.partials.sidebar')
     </div>
   </header><!-- End Header -->
 
