@@ -7,16 +7,18 @@
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Home</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">About us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Visi Misi</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Profile</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Our Products & Services</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Gallery</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Our Clients</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Contact us</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Articles</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Events</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#home">Home</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about-us">About us</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#visi-misi">Visi Misi</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#profile">Profile</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#products-services">Our Products & Services</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#gallery">Gallery</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#clients">Our Clients</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact-us">Contact us</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#articles">Articles</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#events">Events</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="signin">Sign in</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="signup">Sign up</a></li>
                 </ul>
             </div>
         </nav>
